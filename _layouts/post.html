@@ -6,5 +6,42 @@ layout: default
     <p style="font-style: italic; color: var(--accent);">Đăng ngày: {{ page.date | date: "%d/%m/%Y" }} | Danh mục: {{ page.category }}</p>
 </div>
 <div style="text-align: justify; font-size: 1.1em; line-height: 2;">
-    {{ content }}
+{% if page.password %}
+        <div id="lock-screen" style="text-align: center; padding: 4rem 2rem; background: var(--card-bg); border-radius: 12px; border: 1px dashed var(--accent); margin-top: 20px;">
+            <h3 style="font-family: 'Playfair Display', serif; color: var(--text-color); margin-bottom: 10px;">🔒 Vùng Ký Ức Bị Khóa</h3>
+            <p style="color: var(--accent); font-style: italic; margin-bottom: 20px;">Vui lòng nhập mật mã để đọc được chương truyện này.</p>
+            
+            <input type="password" id="fic-password" placeholder="Nhập mật mã..." style="padding: 10px 15px; border-radius: 8px; border: 1px solid var(--border-color); margin-bottom: 15px; outline: none; font-family: 'Lora', serif; width: 60%; max-width: 300px; background: var(--bg-color); color: var(--text-color);">
+            <br>
+            
+            <button onclick="checkPassword()" style="padding: 8px 25px; background: var(--accent); color: var(--card-bg); border: none; border-radius: 20px; cursor: pointer; font-family: 'Lora', serif; transition: 0.3s; font-weight: bold;">Mở khóa</button>
+            
+            <p id="error-msg" style="color: #E57373; display: none; font-size: 0.9rem; margin-top: 15px;">Sai mật mã rồi, hãy thử lại nhé!</p>
+        </div>
+
+        <div id="secret-content" style="display: none;">
+            {{ content }}
+        </div>
+
+        <script>
+            function checkPassword() {
+                const input = document.getElementById('fic-password').value;
+                const correctPass = "{{ page.password }}"; // Lấy mật khẩu từ phần cài đặt fic
+                
+                if (input === correctPass) {
+                    // Nhập đúng: Giấu màn hình khóa, hiện nội dung truyện
+                    document.getElementById('lock-screen').style.display = 'none';
+                    document.getElementById('secret-content').style.display = 'block';
+                } else {
+                    // Nhập sai: Báo lỗi
+                    document.getElementById('error-msg').style.display = 'block';
+                }
+            }
+        </script>
+
+    {% else %}
+        <div class="post-content">
+            {{ content }}
+        </div>
+    {% endif %}
 </div>
