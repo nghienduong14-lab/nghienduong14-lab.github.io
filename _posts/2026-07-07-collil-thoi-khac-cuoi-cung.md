@@ -31,35 +31,33 @@ Lilian nhìn xuống hai bàn tay bị còng lại với nhau của mình, trong
 
 Khoảnh khắc tiếng súng vang lên nơi chiến trận, trái tim Lilian cũng đã chết.
 
-<i>
-“Ngài Avery tới.”
+*“Ngài Avery tới.”*
 
-Lilian ngồi dựa vào tường, dáng vẻ bình tĩnh nhìn người đang sải bước đến gần song sắt ngăn cách tù nhân với thế giới bên ngoài. Đây là Conal Avery, một người chẳng lạ lẫm gì lắm, đến cái mức mà Lilian có thể biết được cả mục đích anh ta đến đây mà không cần hỏi.
+*Lilian ngồi dựa vào tường, dáng vẻ bình tĩnh nhìn người đang sải bước đến gần song sắt ngăn cách tù nhân với thế giới bên ngoài. Đây là Conal Avery, một người chẳng lạ lẫm gì lắm, đến cái mức mà Lilian có thể biết được cả mục đích anh ta đến đây mà không cần hỏi.*
 
-Có lẽ là cười nhạo, đay nghiến, trào phúng.
+*Có lẽ là cười nhạo, đay nghiến, trào phúng.*
 
-Ngoại trừ cái đó, Lilian không nghĩ anh ta sẽ tìm đến cái nơi hôi hám bẩn thỉu này vì bất kì lý do nào khác.
+*Ngoại trừ cái đó, Lilian không nghĩ anh ta sẽ tìm đến cái nơi hôi hám bẩn thỉu này vì bất kì lý do nào khác.*
 
-“Ồ, xem con chuột nào đang ở đây này?”
+*“Ồ, xem con chuột nào đang ở đây này?”*
 
-Conal nhếch môi cười rồi nhìn thích thú vào cô gái đằng sau song sắt, giống như dáng vẻ nhếch nhác hiện tại của cô nàng là thứ gì đó rất hài hước. Lilian không đáp lời, chỉ dửng dưng nhìn về phía người đàn ông tóc đen. Mặc dù trên người là bộ đồ dành cho tù nhân đã bị thấm máu nhìn hơi thảm thương, thế nhưng đôi mắt xanh của cô nàng vẫn cho Conal thấy rằng bản thân em vẫn đang tỉnh táo.
+*Conal nhếch môi cười rồi nhìn thích thú vào cô gái đằng sau song sắt, giống như dáng vẻ nhếch nhác hiện tại của cô nàng là thứ gì đó rất hài hước. Lilian không đáp lời, chỉ dửng dưng nhìn về phía người đàn ông tóc đen. Mặc dù trên người là bộ đồ dành cho tù nhân đã bị thấm máu nhìn hơi thảm thương, thế nhưng đôi mắt xanh của cô nàng vẫn cho Conal thấy rằng bản thân em vẫn đang tỉnh táo.*
 
-“Có vẻ qua mấy ngày vừa rồi mày chẳng rút ra được bài học gì cả. Nhưng mà thôi, vì hôm nay tao đem đến cho mày một tin tốt, vậy nên thái độ này bỏ qua một bên cũng được.”
+*“Có vẻ qua mấy ngày vừa rồi mày chẳng rút ra được bài học gì cả. Nhưng mà thôi, vì hôm nay tao đem đến cho mày một tin tốt, vậy nên thái độ này bỏ qua một bên cũng được.”*
 
-“Tù nhân Lilian de Évreux, vì những tội danh của mình bị tuyên án tử hình. Hành quyết được diễn ra công khai tại quảng trường XII trước mặt toàn thể người dân London và được phát sóng trực tiếp trên truyền hình.”
+*“Tù nhân Lilian de Évreux, vì những tội danh của mình bị tuyên án tử hình. Hành quyết được diễn ra công khai tại quảng trường XII trước mặt toàn thể người dân London và được phát sóng trực tiếp trên truyền hình.”*
 
-Nhưng những gì Conal nhận lại được chỉ là sự im lặng cố hữu.
+*Nhưng những gì Conal nhận lại được chỉ là sự im lặng cố hữu.*
 
-“Có lẽ mày ra đi một mình sẽ buồn lắm, nhưng cứ yên tâm, tao sẽ lùng sục toàn bộ đám tạp quân PHA rồi tiễn từng người trong số chúng xuống hoàng tuyền, mày sẽ không phải đơn độc đâu.”
+*“Có lẽ mày ra đi một mình sẽ buồn lắm, nhưng cứ yên tâm, tao sẽ lùng sục toàn bộ đám tạp quân PHA rồi tiễn từng người trong số chúng xuống hoàng tuyền, mày sẽ không phải đơn độc đâu.”*
 
-Lúc này, rốt cuộc Lilian cũng có chút phản ứng. Em nhắm nghiền mắt lại, cất thứ giọng khàn đặc vì đã nhiều ngày không nói chuyện lên, trực tiếp hạ lệnh tiễn khách.
+*Lúc này, rốt cuộc Lilian cũng có chút phản ứng. Em nhắm nghiền mắt lại, cất thứ giọng khàn đặc vì đã nhiều ngày không nói chuyện lên, trực tiếp hạ lệnh tiễn khách.*
 
-“Nếu không có chuyện gì nữa thì rời đi được rồi.”
+*“Nếu không có chuyện gì nữa thì rời đi được rồi.”*
 
-Conal Avery cười lớn, sau đó biến mất sau khúc rẽ hành lang. Trước đó cũng không quên để lại một câu cuối cùng:
+*Conal Avery cười lớn, sau đó biến mất sau khúc rẽ hành lang. Trước đó cũng không quên để lại một câu cuối cùng:*
 
-“Colter sẽ rất hả dạ.”
-</i>
+*“Colter sẽ rất hả dạ.”*
 
 Sau khi Conal rời đi, căn phòng giam giữ Lilian yên tĩnh trở lại. Trong một thoáng mơ màng, Lilian de Évreux mơ thấy mình quay trở lại căn hộ nhỏ ở trung tâm thành phố. Trong kí ức của em, mỗi lần quay về đây đều sẽ gắn liền với một bình hoa tươi rói trên chiếc bàn nhỏ ở trong bếp và một vòng ôm ấm áp không thể nào quen thuộc hơn. Những lúc như thế, Lilian sẽ không buồn thay giày mà chạy thẳng vào trong nhà, lao vào vòng tay của anh với nụ cười giòn tan như nắng hạ, sau đó sẽ là một nụ hôn nhẹ lên má anh cùng với một vài những câu chuyện nhỏ nhặt mà em thấy trong chuyến đi công tác dài ngày của mình. Có thể đó chỉ là những vấn đề linh tinh chẳng có chút ích lợi gì cho anh trong việc lấy thông tin tình báo, nhưng chàng trai với mái tóc màu vàng kim ấy luôn lắng nghe rất chăm chú, thỉnh thoảng cũng không quên nói thêm một vài lời rồi thành công chọc cười cô người yêu nhỏ bé của mình.
 
@@ -77,31 +75,29 @@ Giấc mơ có Colter Arvis Undersee.
 
 ***
 
-<i>
-“Lilian, em biết nhiệm vụ lần này sẽ rất nguy hiểm, đúng không?”
+*“Lilian, em biết nhiệm vụ lần này sẽ rất nguy hiểm, đúng không?”*
 
-“Em biết.”
+*“Em biết.”*
 
-Lilian ngồi trước mặt Ender trong phòng họp của trụ sở chính PHA, trước mặt vẫn còn một tách trà đã nguội chưa được động đến. Trên mặt bàn là một chiếc bản đồ được vẽ thủ công, thế nhưng với những nhiệm vụ đã từng hoàn thành trước đây thì Lilian nghĩ mình hiểu được tương đối đường đi nước bước trong địa điểm được nhắc đến trong bản đồ.
+*Lilian ngồi trước mặt Ender trong phòng họp của trụ sở chính PHA, trước mặt vẫn còn một tách trà đã nguội chưa được động đến. Trên mặt bàn là một chiếc bản đồ được vẽ thủ công, thế nhưng với những nhiệm vụ đã từng hoàn thành trước đây thì Lilian nghĩ mình hiểu được tương đối đường đi nước bước trong địa điểm được nhắc đến trong bản đồ.*
 
-“Anh cũng biết là không còn ai thích hợp hơn em để hoàn thành nhiệm vụ này mà. Zackary đã bị tử hình, nhiệm vụ cũng đã bị bỏ ngỏ một khoảng thời gian, nếu cứ tiếp tục như thế đối với chúng ta cũng không phải chuyện tốt.”
+*“Anh cũng biết là không còn ai thích hợp hơn em để hoàn thành nhiệm vụ này mà. Zackary đã bị tử hình, nhiệm vụ cũng đã bị bỏ ngỏ một khoảng thời gian, nếu cứ tiếp tục như thế đối với chúng ta cũng không phải chuyện tốt.”*
 
-Lilian chậm rãi nói, dường như đã suy nghĩ thông suốt lắm rồi mới đề cập đến chuyện này. Nhìn cô nàng bây giờ bình tĩnh một cách đáng ngạc nhiên, giống như một Lilian từng suy sụp trước kia chẳng tồn tại trên cõi đời này vậy.
+*Lilian chậm rãi nói, dường như đã suy nghĩ thông suốt lắm rồi mới đề cập đến chuyện này. Nhìn cô nàng bây giờ bình tĩnh một cách đáng ngạc nhiên, giống như một Lilian từng suy sụp trước kia chẳng tồn tại trên cõi đời này vậy.*
 
-Có điều, cũng không biết điều đó là tốt hay không tốt.
+*Có điều, cũng không biết điều đó là tốt hay không tốt.*
 
-Đối diện với những lời nói từ phía Lilian, Ender chìm vào im lặng trong giây lát. Cô nàng với mái tóc đen cũng không nói gì thêm, chỉ đơn giản là ngồi đó và chờ đợi. Em đã làm việc với vị chỉ huy này đủ lâu để hiểu rằng anh đang cần cân nhắc những điều gì, và em cũng hiểu rằng chúng không hề dễ quyết định một chút nào.
+*Đối diện với những lời nói từ phía Lilian, Ender chìm vào im lặng trong giây lát. Cô nàng với mái tóc đen cũng không nói gì thêm, chỉ đơn giản là ngồi đó và chờ đợi. Em đã làm việc với vị chỉ huy này đủ lâu để hiểu rằng anh đang cần cân nhắc những điều gì, và em cũng hiểu rằng chúng không hề dễ quyết định một chút nào.*
 
-Không biết đã qua bao nhiêu lâu, câu trả lời mà Lilian cần cũng tới.
+*Không biết đã qua bao nhiêu lâu, câu trả lời mà Lilian cần cũng tới.*
 
-“Khi bước ra khỏi trụ sở PHA này, mỗi hành động của em đều đang đánh cược tính mạng của tất cả mọi người. Lilian, đi đi, đưa những đứa trẻ và tệp tài liệu đó về đây.”
+*“Khi bước ra khỏi trụ sở PHA này, mỗi hành động của em đều đang đánh cược tính mạng của tất cả mọi người. Lilian, đi đi, đưa những đứa trẻ và tệp tài liệu đó về đây.”*
 
-Lilian sẽ một lần nữa đặt chân tới Tổng bộ.
+*Lilian sẽ một lần nữa đặt chân tới Tổng bộ.*
 
-Nơi mà em từng cố hết sức vùng vẫy để thoát ra.
+*Nơi mà em từng cố hết sức vùng vẫy để thoát ra.*
 
-Nhưng cũng là nơi mà người em yêu tha thiết thuộc về.
-</i>
+*Nhưng cũng là nơi mà người em yêu tha thiết thuộc về.*
 
 ***
 
