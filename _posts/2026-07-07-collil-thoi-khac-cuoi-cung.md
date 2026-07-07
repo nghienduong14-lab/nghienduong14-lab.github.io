@@ -32,7 +32,6 @@ Lilian nhìn xuống hai bàn tay bị còng lại với nhau của mình, trong
 Khoảnh khắc tiếng súng vang lên nơi chiến trận, trái tim Lilian cũng đã chết.
 
 <i>
-
 “Ngài Avery tới.”
 
 Lilian ngồi dựa vào tường, dáng vẻ bình tĩnh nhìn người đang sải bước đến gần song sắt ngăn cách tù nhân với thế giới bên ngoài. Đây là Conal Avery, một người chẳng lạ lẫm gì lắm, đến cái mức mà Lilian có thể biết được cả mục đích anh ta đến đây mà không cần hỏi.
@@ -60,7 +59,6 @@ Lúc này, rốt cuộc Lilian cũng có chút phản ứng. Em nhắm nghiền 
 Conal Avery cười lớn, sau đó biến mất sau khúc rẽ hành lang. Trước đó cũng không quên để lại một câu cuối cùng:
 
 “Colter sẽ rất hả dạ.”
-
 </i>
 
 Sau khi Conal rời đi, căn phòng giam giữ Lilian yên tĩnh trở lại. Trong một thoáng mơ màng, Lilian de Évreux mơ thấy mình quay trở lại căn hộ nhỏ ở trung tâm thành phố. Trong kí ức của em, mỗi lần quay về đây đều sẽ gắn liền với một bình hoa tươi rói trên chiếc bàn nhỏ ở trong bếp và một vòng ôm ấm áp không thể nào quen thuộc hơn. Những lúc như thế, Lilian sẽ không buồn thay giày mà chạy thẳng vào trong nhà, lao vào vòng tay của anh với nụ cười giòn tan như nắng hạ, sau đó sẽ là một nụ hôn nhẹ lên má anh cùng với một vài những câu chuyện nhỏ nhặt mà em thấy trong chuyến đi công tác dài ngày của mình. Có thể đó chỉ là những vấn đề linh tinh chẳng có chút ích lợi gì cho anh trong việc lấy thông tin tình báo, nhưng chàng trai với mái tóc màu vàng kim ấy luôn lắng nghe rất chăm chú, thỉnh thoảng cũng không quên nói thêm một vài lời rồi thành công chọc cười cô người yêu nhỏ bé của mình.
@@ -80,7 +78,6 @@ Giấc mơ có Colter Arvis Undersee.
 ***
 
 <i>
-
 “Lilian, em biết nhiệm vụ lần này sẽ rất nguy hiểm, đúng không?”
 
 “Em biết.”
@@ -104,7 +101,6 @@ Lilian sẽ một lần nữa đặt chân tới Tổng bộ.
 Nơi mà em từng cố hết sức vùng vẫy để thoát ra.
 
 Nhưng cũng là nơi mà người em yêu tha thiết thuộc về.
-
 </i>
 
 ***
