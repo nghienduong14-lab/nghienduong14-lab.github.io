@@ -1,0 +1,111 @@
+---
+layout: default
+title: "Drabbles"
+permalink: /drabbles.html
+---
+<style>
+    .drabble-container {
+        max-width: 800px; /* Thu hẹp khung lại để đọc truyện ngắn tập trung hơn */
+        margin: 0 auto;
+        padding-top: 2rem;
+    }
+    .drabble-card {
+        display: flex;
+        gap: 25px;
+        background: var(--first-snow); 
+        padding: 20px;
+        border-radius: 10px;
+        margin-bottom: 25px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.03);
+        border: 1px solid var(--border-color);
+        transition: transform 0.3s;
+    }
+    .drabble-card:hover {
+        transform: translateY(-5px);
+    }
+    [data-theme="dark"] .drabble-card { background: var(--astronaut); }
+    
+    /* Box ảnh hình vuông bên trái */
+    .drabble-pic {
+        flex-shrink: 0;
+        width: 140px;
+        height: 140px;
+        border: 2px solid var(--text-color); /* Viền bao quanh giống bản vẽ */
+        padding: 5px; /* Tạo khoảng trắng giữa viền và ảnh */
+        background: var(--card-bg);
+    }
+    .drabble-pic img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    
+    /* Khu vực chữ bên phải */
+    .drabble-info {
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+        justify-content: space-between;
+    }
+    .drabble-title {
+        margin: 0 0 10px 0;
+        font-size: 1.5rem;
+    }
+    .drabble-title a { color: var(--accent); }
+    
+    /* Đoạn Preview in nghiêng */
+    .drabble-preview {
+        font-style: italic;
+        font-size: 1.05rem;
+        color: var(--text-color);
+        line-height: 1.6;
+    }
+    
+    /* Nút Read more căn phải dưới cùng */
+    .drabble-readmore {
+        align-self: flex-end;
+        font-family: 'Playfair Display', serif;
+        font-weight: bold;
+        font-size: 1.1rem;
+        color: var(--accent);
+        transition: all 0.2s;
+    }
+    .drabble-readmore:hover {
+        letter-spacing: 1px;
+        opacity: 0.8;
+    }
+    
+    /* Đảm bảo giao diện vẫn đẹp trên điện thoại */
+    @media (max-width: 600px) {
+        .drabble-card { flex-direction: column; align-items: center; text-align: center; }
+        .drabble-readmore { align-self: center; margin-top: 15px; }
+    }
+</style>
+
+<div class="drabble-container">
+    <h1 style="text-align: center; margin-bottom: 40px; color: var(--accent);">Tản Mạn & Drabbles</h1>
+    
+    {% for post in site.posts %}
+        {% if post.category == 'Drabble' %}
+        <div class="drabble-card">
+            <div class="drabble-pic">
+                <img src="{{ post.image }}" alt="{{ post.title }}">
+            </div>
+            <div class="drabble-info">
+                <div>
+                    <h3 class="drabble-title">
+                        <a href="{{ post.url | relative_url }}">
+                            {% if post.password %}<span style="font-size: 0.8em; margin-right: 5px;">🔒</span>{% endif %}
+                            {{ post.title }}
+                        </a>
+                    </h3>
+                    <div class="drabble-preview">
+                        "{{ post.excerpt | strip_html | truncatewords: 35 }}"
+                    </div>
+                </div>
+                <a href="{{ post.url | relative_url }}" class="drabble-readmore">>> Read more</a>
+            </div>
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>
