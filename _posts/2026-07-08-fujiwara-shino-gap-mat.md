@@ -7,14 +7,25 @@ image: https://i.pinimg.com/736x/52/88/e0/5288e0b5f888ee336539ca1f6e2cc81a.jpg
 excerpt: "Một con báo sẽ chẳng bao giờ oang oang thông báo cho cả cánh rừng rằng khi nào nó đi săn."
 ---
 Chiếc ô tô màu đen bóng loáng phanh két một tiếng rồi dừng lại trước một khuôn viên được bao trùm bởi sự cổ kính hiếm thấy trong thành thị đang ngày càng xa hoa. Shino đã từng nghe nói đến dinh thự nhà Hideki cách đây khá lâu, thế nhưng được tận mắt nhìn thấy vẫn đem lại trong đôi mắt đen láy của cô nàng một sự ngưỡng mộ và thưởng thức mà từ trước tới giờ chưa từng có. Cô không thể ngờ được sẽ có một ngày mình được bước vào trong căn nhà tràn ngập hương vị cổ xưa giữa lòng phố xá sầm uất, ở một thành phố phát triển bậc nhất ở Nhật Bản. 
+
 “Tôi đến gặp ngài Hideki để bàn một chút chuyện công việc. Tôi là Shino Fujiwara.”
+
 Ngay sau khi giới thiệu thân phận của mình xong xuôi, một cô gái vận đồ kimono truyền thống đưa tay mời Shino đi theo mình. Con đường nối liền từ cổng đến nhà chính vừa đủ dài để cô tận hưởng một bầu không khí trong trẻo và mát lành từ những rặng cây đem lại. Vốn là một sinh viên của khoa Thực vật học, Shino thật sự rất muốn dành thời gian để chiêm ngưỡng  nơi đây, thế nhưng bản thân cô cũng biết mình đến đây vì một lý do quan trọng hơn thế rất nhiều.
+
 Shino cụp mắt lại trong khoảnh khắc, rồi đến khi đôi đồng tử màu đen xuất hiện lại một lần nữa, nó chỉ còn lại sự nghiêm túc và chững chạc hơn so với độ tuổi mà cô nên có. Là do hoàn cảnh gia đình đã rèn giũa và tôi luyện hay do những kinh nghiệm mà cô đã phải dùng cả sinh mệnh của mình để đổi lấy? Shino cũng không biết câu trả lời là gì, thế nhưng dù sao chính những thứ ấy mới mài mòn cô tiểu thư duy nhất của nhà Fujiwara thành một viên ngọc quý và có đủ tư cách xuất hiện ở đây, ngay lúc này.
+
 Khi đặt chân bước trên hành lang bằng một loại gỗ mà Shino khá dám chắc là không phải loại tầm thường, đột nhiên cô lại cảm thấy có một loại áp lực vô hình nào đó đang đè nặng lên vai của mình. Rõ ràng vẫn là một không gian rộng rãi, thoáng mát và tràn ngập ánh sáng, thế nhưng có lẽ chỉ những con người trong Fukuro-kai mới hiểu được đằng sau cái vẻ hào nhoáng này là gì. Thế nhưng biết thì đã sao chứ? Bọn họ đã thề một lòng trung thành rồi.
+
 Bao gồm cả cô, Shino Fujiwara. Một cô sinh viên mới hai mươi ba tuổi đầu thanh thoát và dịu dàng trong con mắt của mọi người lại là một kẻ xuống tay tàn bạo mỗi khi màn đêm thay thế cho ánh sáng mặt trời buổi sớm. Sở dĩ Shino nổi bật lên trong thế hệ thành viên này có lẽ một phần là bởi kĩ năng của cô, cũng một phần nữa vì cái tính cách nhẫn nhịn và chịu đựng tốt một cách đáng ngạc nhiên. Shino cũng không có phản hồi gì về những ý kiến của mọi người xung quanh, cô chỉ cần làm tốt công việc của mình là được.
+
 *"Một con báo sẽ chẳng bao giờ oang oang thông báo cho cả cánh rừng rằng khi nào nó đi săn."*
+
 Cô gái mặc kimono khi nãy chỉ đưa cô đến đây, sau đó liền ngay lập tức cúi người rời đi. Khi đặt chân bước vào trong căn phòng tiếp khách và trong lúc đương chờ đợi ngài Hideki đáng kính, Shino đã khéo léo quan sát căn phòng được trang trí theo phong cách của một triều đại xưa cổ. Không một đồ vật điện tử nào được để trong căn phòng mà thay vào đó chính là những bức tranh của danh họa có tiếng ngày xưa, là những thứ đồ cổ đáng giá mà bất cứ ai có tìm hiểu về chúng đều mong muốn có được, thậm chí sẵn sàng đánh đổi mọi thứ. Màu sắc trong căn phòng cũng được phối hợp hết sức hài hòa, khiến cho những vị khách viếng thăm nó đều có cảm giác bình yên khó hiểu, kèm theo hương hoa thoang thoảng trong không khí càng làm cho cái cảm giác ấy bùng lên mãnh liệt và dữ dội hơn. Căn phòng được tối giản hóa cách bài trí, chỉ có một vài món đồ trang trí quý hiếm và một chiếc bàn Chabudai được đặt giữa căn phòng, xung quanh nó là những chiếc gối Zabuton êm ái. Tất cả đều được đặt trên những tấm chiếu Tatami truyền thống.
+
 Nơi này tốt đẹp đến nỗi Shino cảm thấy không mặc một bộ Kimono quả thực là một lỗi lầm lớn.
+
 Nhưng thời gian để cô hối hận chẳng kéo dài, vì ngài Hideki đã đến rồi.
+
 Cô ngay lập tức cúi gập người xuống, tay phải đặt nhẹ lên phía ngực trái.
+
 “Hideki-sama.”
