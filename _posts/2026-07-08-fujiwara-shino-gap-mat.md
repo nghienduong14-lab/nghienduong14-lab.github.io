@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gặp Mặt"
+title: "[Shino] Gặp Mặt"
 category: "Drabble"
 tags: ["Mafia AU", "Nhật Bản"]
 image: https://i.pinimg.com/736x/52/88/e0/5288e0b5f888ee336539ca1f6e2cc81a.jpg
