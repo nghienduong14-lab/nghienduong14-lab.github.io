@@ -26,6 +26,9 @@ title: Fanfiction
 
 <div class="grid" id="fic-grid">
     {% for post in site.posts %}
+    {% if post.category == 'Drabble' %}
+        {% continue %}
+    {% endif %}
     <div class="card fic-item" data-tags="{{ post.tags | join: ',' | downcase }}" data-date="{{ post.date | date: '%Y-%m-%d' }}">
         <img src="{{ post.image }}" alt="{{ post.title }}" class="card-img">
         <div class="card-content">
